@@ -1,3 +1,6 @@
 [submodule "/Users/shm/.vim/pack/colors/start/bluewery"]
 	path = pack/colors/start/bluewery
 	url = https://github.com/relastle/bluewery.vim.git
+[submodule "pack/plugins/start/lightline"]
+	path = pack/plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim.git
